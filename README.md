@@ -1,3 +1,5 @@
+For Multi-Region + Multi-Account deployment, please refer to [README-MULTI-ACCOUNT.md](README-MULTI-ACCOUNT.md)
+
 # Multi-Region AWS Infrastructure
 
 Complete, Production-Grade, Terraform infrastructure for a multi-region reporting application with usage limits, credit management, and global DNS routing.
